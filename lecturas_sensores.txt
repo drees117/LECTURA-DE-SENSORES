@@ -105,3 +105,5 @@ Temperatura=25.00*C  Humedad=36.00%
 El suelo esta seco
 Temperatura=25.00*C  Humedad=36.00%
 El suelo esta seco
+Temperatura=25.00*C  Humedad=35.00%
+El suelo esta seco
